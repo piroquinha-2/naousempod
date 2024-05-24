@@ -9,5 +9,5 @@ cauan.henrique.machado@escola.pr.gov.br
 
 @meno_zx
 
-![https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fpt%2Fimages%2Fsearch%2Fdiabo%2520da%2520tasm%25C3%25A2nia%2F&psig=AOvVaw1e9FjIaOxgu_HmfJY52zLx&ust=1716637096729000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjZ8tSZpoYDFQAAAAAdAAAAABAE](link)
+![https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FGoverno_Dilma_Rousseff&psig=AOvVaw1jerpmYW4giKvQCYqFxMei&ust=1716637489435000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCZ54-bpoYDFQAAAAAdAAAAABAJ](link)
 
