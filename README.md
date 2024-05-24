@@ -9,5 +9,7 @@ cauan.henrique.machado@escola.pr.gov.br
 
 @meno_zx
 
-![https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FGoverno_Dilma_Rousseff&psig=AOvVaw1jerpmYW4giKvQCYqFxMei&ust=1716637489435000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCZ54-bpoYDFQAAAAAdAAAAABAJ](link)
+![](https://upload.wikimedia.org/wikipedia/commons/b/bd/Dilma_Rousseff_fevereiro_2011_3-B.jpg
+)
+
 
